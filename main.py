@@ -1,7 +1,5 @@
 import random
 import math
-# TODO
-# Implement Learning Rate
 
 weight_list = [] # for debugging only
 learning_rate = .3
